@@ -5,13 +5,14 @@ A simple utility to read, parse and flag the evens from a log file.
 ## To run the app
 
 1. Download the project from GitHub
-https://github.com/Yogendra2887/CreditSuisseCodingAssignment/tree/main/CreditSuisseCodingAssignment
+
 
 
 2. Open the project in an IDE of your choice.
 3. Follow build steps 1,2,3 from folder named build-steps
   
 A sample log file is available in `resources/samples/logfile.txt`    
+Output is also saved in a file target/classes/output.json
     
 
 ## Summary of task
