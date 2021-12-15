@@ -1,0 +1,19 @@
+[ {
+  "id" : "56CEEd390bEC85b0",
+  "duration" : 0,
+  "type" : "APPLICATION_LOG",
+  "host" : null,
+  "alert" : false
+}, {
+  "id" : "C21DcC98efA49AEE",
+  "duration" : 4,
+  "type" : "APPLICATION_LOG",
+  "host" : null,
+  "alert" : false
+}, {
+  "id" : "259b7e933gfB7078",
+  "duration" : 7,
+  "type" : null,
+  "host" : null,
+  "alert" : true
+} ]

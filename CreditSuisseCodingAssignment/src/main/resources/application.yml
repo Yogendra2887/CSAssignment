@@ -1,0 +1,19 @@
+server:
+  port: 8821
+
+spring:
+  application:
+    name: log-analyser
+  datasource:
+    driver-class-name: org.hsqldb.jdbc.JDBCDriver
+    url: jdbc:hsqldb:file:db/alertsdb;DB_CLOSE_DELAY=1000
+    username: sa
+    password:
+  jpa:
+    hibernate:
+      ddl-auto: create
+
+app:
+  log-analyser:
+    event-duration-threshold: 4
+    table-rows-batch-count: 1000
