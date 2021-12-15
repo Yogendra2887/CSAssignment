@@ -6,7 +6,7 @@ A simple utility to read, parse and flag the evens from a log file.
 
 1. Download the project from GitHub
 
-
+https://github.com/Yogendra2887/CSAssignment/tree/main/CreditSuisseCodingAssignment
 
 2. Open the project in an IDE of your choice.
 3. Follow build steps 1,2,3 from folder named build-steps
